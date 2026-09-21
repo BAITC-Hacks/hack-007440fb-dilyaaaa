@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Есть дефект или нет
 
 Маленький скрипт на Python (Pillow), который по одной картинке определяет:
@@ -51,3 +52,7 @@ python3 detect.py my_photo.jpg --threshold 0.1
 - При необходимости `red_ratio()`/`is_red_pixel()` легко заменить на
   вызов настоящей модели классификации изображений — интерфейс
   `classify(path) -> (verdict, score)` при этом не меняется.
+=======
+# hack-007440fb-dilyaaaa
+Hackathon team repository for Dilyaaaa
+>>>>>>> 848dd130676a5dcb4395791c3fc6ebc2e6cbd904
